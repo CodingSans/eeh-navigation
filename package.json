@@ -4,7 +4,6 @@
   "description": "An AngularJS menu module.",
   "main": "Gruntfile.js",
   "scripts": {
-    "postinstall": "bower install",
     "test": "grunt test"
   },
   "repository": {
